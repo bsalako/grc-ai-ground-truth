@@ -1,1 +1,13 @@
+framework,SOC 2
+trust_service_criteria,Security
+control_id,CC6.1
+question_id,SOC2-CC6-001
+question_text,Are privileged accounts protected with multi-factor authentication (MFA)?
+correct_answer,Yes. MFA is enforced for all privileged accounts accessing production systems.
+acceptable_variations,MFA enforced via centralized IdP; hardware or app-based authenticators; documented conditional access rules with no exclusions for privileged roles.
+unacceptable_answers,MFA is planned; MFA applies to some admins; MFA recommended but not enforced; password-only access.
+required_evidence,IdP MFA configuration; IAM policy; access logs showing MFA challenges for privileged roles.
+evidence_quality_bar,Evidence must demonstrate enforcement, not intent or policy language.
+confidence_level,High
+notes,Partial MFA coverage or undocumented exceptions typically result in audit findings.
 
