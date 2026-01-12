@@ -28,3 +28,5 @@ methodology/ — How ground truth was constructed
 2. Review the rating guide in `rating_guides/`
 3. Explore edge cases in `edge_cases/`
 4. Read the methodology for context
+
+The methodology in methodology/how_ground_truth_is_built.md defines how truth, risk, and AI evaluation standards are governed across this repository.
