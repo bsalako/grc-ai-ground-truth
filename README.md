@@ -30,4 +30,5 @@ methodology/ — How ground truth was constructed
 4. Read the methodology for context
 
 The methodology in methodology/how_ground_truth_is_built.md defines how truth, risk, and AI evaluation standards are governed across this repository.
+
 Ongoing AI quality is governed through metrics and drift monitoring defined in quality/ai_quality_metrics_and_drift.md.
