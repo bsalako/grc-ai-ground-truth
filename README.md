@@ -39,7 +39,7 @@ Ongoing AI quality is governed through metrics and drift monitoring defined in q
 
 This repository is structured to directly map to the responsibilities of a GRC AI Subject Matter Expert working on AI-powered compliance workflows.
 
-| Role Responsibility (Vanta-style) | Portfolio Artifact | What This Demonstrates |
+| Role Responsibility | Portfolio Artifact | What This Demonstrates |
 |----------------------------------|--------------------|------------------------|
 Design and test prompts | `ai_evaluations/` | I evaluate how different AI outputs perform against real GRC standards and identify where prompting or guardrails must change to reduce risk. |
 Own the ground truth | `datasets/soc2_ground_truth_v1.csv` | I translate compliance frameworks into structured, audit-defensible “truth layers” that define what correct looks like for AI evaluation. |
