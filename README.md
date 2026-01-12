@@ -12,3 +12,19 @@ This repository demonstrates how to:
 It is useful for:
 - AI evaluation projects
 - Compliance automation research
+## 🧩 Directory Structure
+datasets/ — Ground truth CSVs
+
+rating_guides/ — Evaluation criteria and guides
+
+edge_cases/ — Complex GRC scenarios
+
+methodology/ — How ground truth was constructed
+
+
+## 🚀 Getting Started
+
+1. Browse the datasets in `datasets/`
+2. Review the rating guide in `rating_guides/`
+3. Explore edge cases in `edge_cases/`
+4. Read the methodology for context
