@@ -119,6 +119,8 @@ If an AI response addresses known edge cases (service accounts, emergency access
 - Logging and review must be mentioned
 - Absence of safeguards results in Partial or Fail
 
+Detailed edge case scenarios are documented in edge_cases/soc2_access_control_edge_cases.md and must be consulted during AI output evaluation.
+
 ---
 
 ## Launch Readiness Criteria
